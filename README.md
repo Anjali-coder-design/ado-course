@@ -5,6 +5,8 @@ https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml/
 
 
 ## Changelog
+- add lecture <i> (15-october-2022) </i>
+  1. aks deployment
 - add lecture <i> (2-october-2022) </i>
   1. push package feed 
 - add lecture  <i> (2-october-2022) </i>

@@ -83,3 +83,6 @@ Starting template with stage, job, tasks
 
 - **push-package-feed**  
 Push a package to Artifacts feed
+
+- **kubernetes-deployment**  
+Deploy nginx on kubernetes cluster
