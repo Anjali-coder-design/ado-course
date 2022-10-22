@@ -28,4 +28,4 @@ pool:
 
 steps:
 - script: echo Running pipeline with specific build strategy
-  displayName: 'pipeline run'
+  displayName: 'pipeline run depending on trigger'
